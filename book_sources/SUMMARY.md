@@ -3,4 +3,4 @@
   - [1.下載以及安裝git](src/1.下載以及安裝git.md)
   - [2.安裝vscode](src/2.安裝vscode.md)
   - [3.github流程](src/3.github流程.md)
-  - [4.git%20指令](src/4.git%20指令.md)
+  - [4.git 指令](src/4.git%20指令.md)
